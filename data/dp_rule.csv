@@ -1,0 +1,14 @@
+Id,PTM_upos,PTM_deprel,KW_upos,KW_deprel,GENE_upos,GENE_deprel,Disease_upos,Disease_deprel,Chemical_upos,Chemical_deprel,Note,Example,Example_pmid,Example_sentid
+1,NOUN,nmod,VERB,root,NOUN,compound,ADJ,amod,NOUN,nmod,,LB-100 sensitizes hepatocellular carcinoma cells to the effects of sorafenib during hypoxia by activation of Smad3 phosphorylation.,26666823,0
+2,NOUN,nsubj,VERB,amod,NOUN,nmod,NOUN,compound,NOUN,nmod,,Phosphorylation of Smad3 leads to increased efficacy of erlotinib in lung cancer patients.,,
+3,NOUN,nsubj,VERB,root,NOUN,nmod,NOUN,compound,NOUN,nmod,,Phosphorylation of Smad3 improves the efficacy of erlotinib in lung adenocarcinoma.,,
+4,NOUN,nsubj,VERB,root,NOUN,compound,ADJ,amod,NOUN,nmod,,Smad3 phosphorylation reduces the prognosis of erlotinib in cervical cancer.,,
+5,NOUN,nsubj,VERB,ccomp,NOUN,compound,ADJ,amod,NOUN,obl,,The results showed that Smad3 phosphorylation could improve the sensitivity of patients with cervical cancer to erlotinib.,,
+6,NOUN,nsubj,VERB,ccomp,NOUN,compound,NOUN,compound,NOUN,nmod,,The results showed that Smad3 phosphorylation could significantly enhance the lethality of erlotinib against lung cancer cells.,,
+7,NOUN,obl,VERB,root,NOUN,compound,NOUN,compound,NOUN,nmod,,The inhibition of erlotinib on lung cancer cells can be activated by Smad3 phosphorylation.,,
+7.5,NOUN,obl,NOUN,nsubj:pass,NOUN,compound,NOUN,compound,NOUN,nmod,,The inhibition of erlotinib on lung cancer cells can be activated by Smad4 phosphorylation.,,
+8,NOUN,obl,VERB,root,NOUN,compound,NOUN,compound,NOUN,compound,,Erlotinib resistance to lung cancer cells can be prevented by Smad3 phosphorylation.,,
+8.5,NOUN,obl,NOUN,nsubj:pass,NOUN,compound,NOUN,compound,NOUN,compound,,Erlotinib resistance to lung cancer cells can be prevented by Smad4 phosphorylation.,,
+9,VERB,amod,VERB,root,NOUN,obl,NOUN,compound,NOUN,nmod,,The resistance of erlotinib to lung cancer cells can be reduced by phosphorylated Smad3.,,
+9.5,VERB,amod,NOUN,nsubj:pass,NOUN,obl,NOUN,compound,NOUN,nmod,,The resistance of erlotinib to lung cancer cells can be reduced by phosphorylated Smad4.,,
+10,VERB,amod,VERB,root,NOUN,nsubj,NOUN,compound,NOUN,nmod,,Phosphorylated Smad3 enhanced the activity of erlotinib against lung cancer cells.,,

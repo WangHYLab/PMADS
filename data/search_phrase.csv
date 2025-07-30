@@ -1,0 +1,79 @@
+search,postfix
+Phosphorylation AND treatment,1
+Ubiquitination AND treatment,2
+Acetylation AND treatment,3
+N-linked Glycosylation AND treatment,4
+Other AND treatment,5
+Methylation AND treatment,6
+2-Hydroxyisobutyrylation AND treatment,7
+O-linked Glycosylation AND treatment,8
+Succinylation AND treatment,9
+Malonylation AND treatment,10
+Sumoylation AND treatment,11
+S-palmitoylation AND treatment,12
+Sulfoxidation AND treatment,13
+Hydroxylation AND treatment,14
+Amidation AND treatment,15
+S-nitrosylation AND treatment,16
+Glutathionylation AND treatment,17
+N-palmitoylation AND treatment,18
+S-diacylglycerol AND treatment,19
+Pyrrolidone carboxylic acid AND treatment,20
+Myristoylation AND treatment,21
+Pyruvate AND treatment,22
+Neddylation AND treatment,23
+Nitration AND treatment,24
+Glutarylation AND treatment,25
+Carboxylation AND treatment,26
+Oxidation AND treatment,27
+Gamma-carboxyglutamic acid AND treatment,28
+Sulfation AND treatment,29
+Geranylgeranylation AND treatment,30
+GPI-anchor AND treatment,31
+Lactoylation AND treatment,32
+Crotonylation AND treatment,33
+ADP-ribosylation AND treatment,34
+Lipoylation AND treatment,35
+Citrullination AND treatment,36
+Deamidation AND treatment,37
+Pyrrolylation AND treatment,38
+Farnesylation AND treatment,39
+C-linked Glycosylation AND treatment,40
+Butyrylation AND treatment,41
+Lactylation AND treatment,42
+Glycation AND treatment,43
+Formylation AND treatment,44
+Formation of an isopeptide bond AND treatment,45
+Pupylation AND treatment,46
+O-palmitoleoylation AND treatment,47
+Deamination AND treatment,48
+Sulfhydration AND treatment,49
+Propionylation AND treatment,50
+Phosphoglycerylation AND treatment,51
+Blocked amino end AND treatment,52
+Biotinylation AND treatment,53
+Thiocarboxylation AND treatment,54
+AMPylation AND treatment,55
+Phosphatidylethanolamine amidation AND treatment,56
+Iodination AND treatment,57
+Serotonylation AND treatment,58
+UMPylation AND treatment,59
+Cholesterol ester AND treatment,60
+Carbamidation AND treatment,61
+S-cysteinylation AND treatment,62
+O-palmitoylation AND treatment,63
+Octanoylation AND treatment,64
+Stearoylation AND treatment,65
+S-archaeol AND treatment,66
+S-linked Glycosylation AND treatment,67
+Decanoylation AND treatment,68
+Carboxyethylation AND treatment,69
+S-carbamoylation AND treatment,70
+S-Cyanation AND treatment,71
+Decarboxylation AND treatment,72
+Hydroxyceramide ester AND treatment,73
+S-selanylation AND treatment,74
+Cholesterylation AND treatment,75
+D-glucuronoylation AND treatment,76
+N-carbamoylation AND treatment,77
+PTM AND treatment,78
