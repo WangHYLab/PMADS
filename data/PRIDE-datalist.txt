@@ -1,0 +1,116 @@
+PXD	Title	Drug	Cellline/Tissue	Quantification	Disease
+PXD003092	Phosphoproteomics analysis of anti-cancer effects of ginsenoside Rg3 in human breast cancer cells	Ginsenoside Rg3	MDA-MB-231	TMT	Breast cancer
+PXD003530	Sites of aspirin-mediated lysine acetylation in HeLa cells	Aspirin	HeLa?	LFQ	Cervix carcinoma
+PXD006581	Repurposing tofacitinib as an anti-myeloma therapeutic to reverse growth-promoting effects of the bone marrow microenvironment	tofacitinib	BMSC	Label free	
+PXD014786	A proteomic approach for characterizing trastuzumab-emtansine modified for nuclear directed localization that enhances cytotoxicity identifies regulatory nuclear transport receptor.	"T-DM1,trastuzumab"	SKBR3	Spectrum count/molecular weight	Breast cancer
+PXD018929	Novel Aza-Podophyllotoxin Derivative in Triple Negative Breast Cancer	SU212	"MCF10A,MCF12A,MDA-MB-231,MDA-MB-468"	TMT	Breast cancer
+PXD019038	Tumor drug concentration and phosphoproteomic profiles after two weeks of treatment with sunitinib in patients with newly-diagnosed glioblastoma	sunitinib	"GBM: U87,U251,T98G and U138 ，HT29 colon cancer as positive ctl"	Label free	Glioblastoma
+PXD023569	Cerulenin action on colon cancer cell line	Cerulenin	RW480	Unknown	Colon cancer
+PXD031346	Differential network analysis of ROS1 inhibitors reveals lorlatinib polypharmacology: Phosphotyrosine Profiling	"lorlatinib,cabozantinib,crizotinib,entrectinib"		TMT	Lung cancer
+PXD041324	New ruthenium-cyclopentadienyl complexes affect colorectal cancer hallmarks showing high therapeutic potential	"PMC79,PMC78,LCR134 and CR220"	RW480	label-free	Colorectal cancer
+PXD041686	Transcriptome and proteome analysis reveals the anti-cancer properties of Hypnea musciformis macroalgae extract in liver and intestinal cancer cells	Hypnea musciformis extract(algae extract)	liver cancer cellline HepG2 and colon cancer cellline LS174	label-free	"Liver cancer,Colon cancer"
+PXD043359	Bergenin inhibits growth of human cervical cancer cells by decreasing Galectin-3 and MMP-9 expression	Bergenin	Cervical cancer cells		Cervical cancer
+PXD043585	MIB/MS determines SCH772984 is a selective ERK1/2 inhibitor in pancreatic cancer cells	SCH772984	"SW 1990,MIA PaCa-2,PANC-1,HPAC,AsPC-1,Panc 10.05"	label-free	Pancreatic cancer
+PXD044042	Phosphoproteomic analysis of Aurora Kinase B inhibition in WT and Cdh1 mutant RPE1 cells	Barasertib	RPE1	TMT	Retinal pigment epithelium
+PXD045777	Multilevel Plasticity and Altered Glycosylation Drive Aggressiveness in Hypoxic and Glucose-Deprived Bladder Cancer Cells	glucose deprivation(Cisplatin)	"RT4,5637,T24 和 HT1197(choose T24,5637)"	Label free	Bladder cancer
+PXD047335	ANDROGEN DRIVES MELANOMA INVASIVENESS AND METASTATIC SPREAD BY INDUCING TUMORIGENIC FUCOSYLATION: Phosphoproteomics	ARi	melanoma cells	TIC	Melanocyte
+PXD048479	Signaling and transcriptional dynamics underlying early adaptation to oncogenic BRAF inhibition	"Vemurafenib,dasatinib"	M397	TMT	Melanoma
+PXD048534	The ERK-dependent proteome is enriched in the mouse PDAC KPC RAS-dependent phosphoproteome	RMC7977	"K8484,K18905"	TMT	Pancreatic ductal adenocarcinoma
+PXD049299	A Proteomics Approach Identifies RREB1 as a Crucial Molecular Target of Imidazo–Pyrazole Treatment in SKMEL-28 Melanoma Cells	Imidazopyrazole 衍生物CB556	SKMEL-28	Label free	Skin cancer
+PXD050555	TMT-10plex-based phosphoproteomics of bioactive compounds in A549 cells	"Chamuangone, Cannabigerol (CBG), Cannabidiol (CBD), NP1-cyclic peptide"	A549	TMT	NSCLC
+PXD051299	Polydopamine nanoparticles-based hyperthermal chemotherapy for the treatment of liver cancer	Sorafenib	HepG2	Unknown	Unknown
+PXD051376	Unlocking Selective Anticancer?Mechanisms: Dinuclear Manganese Superoxide Dismutase Mimetics Combined with Pt(II) Complexes	"Mn2L2Ac,Mn2L2,PtDAPCl2，Mn2L2Pt"	"MCF 10A,MCF 7"	MS1 intensity based label-free quantification method	Breast cancer
+PXD052305	A549 treated with CISPLATIN/TSA VS CONTROL	"CISPLATIN,TSA"	A549	TMT	Colon cancer
+PXD052364	Impact of Aldehyde Dehydrogenase Inhibition on the Stemness of Endometrial Cancer Stem Cells	DEAB	"ECC-1 , RL95-2"	TIC	Cervix carcinoma
+PXD000065	HiRIEF deep proteomics of A431 human vulvar cancer cell line and N2A mouse neuroblastoma cell line	Gefitinib	"A431 human cell line, mouse N2A cell line"	iTRAQ8plex	Epidermoid Carcinoma
+PXD000681	Probing tyrosine kinase inhibitors specificity	"HDAC 抑制剂,SAHA"	A431		Squamous cell carcinoma
+PXD000861	"Phosphopattern Predicts CK2 Substrate, HMGA1, as a Drug Resistant Target for Non-Small Cell Lung Cancer"	Gefitinib	"PC9,PC9/gef,BEAS-2B"	Label free	Lung cancer
+PXD001101	Identifying novel targets of oncogenic EGF receptor signaling in lung cancer through global phosphoproteomics	erlotinib	"H3255,H1975?"	SILAC	Lung adenocarcinoma
+PXD001812	Phosphoproteomic analysis of tamoxifen resistant breast cancer	Tamoxifen	"MCF7,MCF7-CTRL,MCF7-TamR"	SILAC	Breast cancer
+PXD003655	Half-lives of aspirin-mediated lysine acetylations	Aspirin	HeLa	SILAC	Cervix carcinoma
+PXD003790	HLA peptides (LC-MSMS) induced by Decitabine in Glioblastoma cell lines	Decitabine	"U-87,T98G,LNT-229"	Label free	Glioblastoma
+PXD004541	CETSA proteomics to investigate drug binding in BJ Ras Sv40 cells treated with MTH1 inhibitors.	TH1579	BJ Ras Sv40	TMT	Breast cancer
+PXD004941	Integrative analysis of proteome and ubiquitylome reveals unique features of protein ubiquitylation and mitochondria in gefitinib resistant non-small cell lung cancer cells	Gefitinib	NSCLC cells PC9/GR (gefitinib-resistant) and PC9 (gefitinib-sensitive)	SILAC	Lung cancer
+PXD004995	"Sites of aspirin-mediated lysine acetylation in HeLa cells, part 2"	Aspirin	HeLa	SILAC	Cervix carcinoma
+PXD005514	"TUMOUR KINOME RE-WIRING GOVERNS RESISTANCE TO PALBOCICLIB IN OESTROGEN RECEPTOR POSITIVE BREAST CANCERS, HIGHLIGHTING NEW THERAPEUTIC MODALITIES"	palbociclib	"wt-MCF7,MCF7-LTED"	Unknown	Unknown
+PXD005536	Quantitative phosphoproteomic analysis of acquired drug resistance to pazopanib and dasatinib	"Dasatinib,Pazopanib"	A204?	SILAC	Rhabdoid cancer
+PXD006139	Competitive Kinase Enrichment Proteomics Reveals that Abemaciclib Inhibits Glycogen Synthase Kinase 3 Beta and Activates WNT Signaling	"Abemaciclib,Palbociclib,Trametinib,BMS-777607,Dasatinib"	"H2228,mouse：HEK293T/17"	TMT/label-free	Lung cancer
+PXD006459	Human lamin B1: stress-induced phosphorylation	MMS	HCC1937	Label free	Cervix carcinoma
+PXD006561	CDK4/6 inhibitor resistance in prostate cancer	palbociclib	"LNCaP,LAPC4"	Unknown	Prostate cancer
+PXD006705	Targeting Focal Adhesion Kinase overcomes erlotinib resistance in smoke induced lung cancer by altering phosphorylation of Epidermal Growth Factor Receptor	"erlotinib,PF-562271,dasatinib"	"H358,H1299 and H1650"	SILAC	Non-small cell lung carcinoma
+PXD006732	Discovery of Tamoxifen and N-Desmethyl Tamoxifen Protein Targets in MCF-7 Cells Using Large-Scale Protein Folding and Stability Measurements	"Tamoxifen,N-Desmethyl Tamoxifen"	MCF-7	SILAC	Breast cancer
+PXD006915	"The proteome alterations associated with treatment with Photodynamic Therapy, endosomes after Bleomycine-mediated photochemical internalization on rat bladder cancer cells"	Bleomycin，Bleomycin + fimaporfin (photosensitizer)	AY-27?	SILAC	Urinary bladder cancer
+PXD007256	"Calcium/calmodulin dependent protein kinase kinase 2 (CAMKK2), an alternative to curcumin in head and neck squamous cell carcinoma."	Curcumin	CAL 27	SILAC	Oral cavity cancer
+PXD007740	A system-wide approach to monitor responses to synergistic BRAF and EGFR inhibition in colorectal cancer cells	"BRAFi,EGFRi"	"WiDr,WiDr PTPN11 KO"	unknown	Colon cancer
+PXD007769	SILAC-based quantitative tyrosine phosphoproteomic profiling identifies alternative therapeutic targets to erlotinib in head and neck squamous cell carcinoma	erlotinib	"HNSCC,SCC-R,SCC-S"	SILAC	head and neck squamous cell carcinoma
+PXD008032	Differential activity of treatment with protein kinase inhibitors on tumor phosphotyrosine profiles in patients with advanced cancer	"carfilzomib,bortezomib,melphalan,E7107,KH-CB19,TG003,zVAD-fmk,lenalidomide,Venetoclax"	"The experimental group consisted of patients, and the control group consisted of HCT116."	TMT	"Hepatocellular carcinoma
+Pancreatic cancer
+Colon cancer
+Melanoma
+Esophageal cancer
+Prostate cancer
+Kidney cancer"
+PXD008454	Adaptive resistance to Afatinib in non-small cell lung cancer cells in attenuated by Ca2+ depletion	"Afatinib,Gefitinib"	"PC9,H1975,HCC827,H1650?"	"Label free
+
+SILAC"	Non-small cell lung carcinoma
+PXD009041	Functional proteomics of midostaurin in lung cancer cells: IMAC Phosphoproteomics	midostaurin	Lung cancer cell lines	TIC	Lung cancer
+PXD010786	Functional proteomics of midostaurin in lung cancer cells: IMAC Phosphoproteomics	Midostaurin	Lung cancer cell lines	TMT	Lung cancer
+PXD012172	Proteasome inhibitor-induced modulation reveals the spliceosome as a specific therapeutic vulnerability in multiple myeloma	HBX41108	"MDA - MB - 231,MDA - MB - 468,MCF10A"	"Label free
+
+SILAC"	Multiple myeloma
+PXD012963	Divergent polypharmacology-driven cellular activity of structurally similar multi-kinase inhibitors through cumulative differential effects on individual targets: IMAC Phosphoproteomics	"Foretinib,Cabozantinib"	H1155	TMT	Lung cancer
+PXD013859	XPO1 is a critical player for Bortezomib resistance in Multiple Myeloma: A quantitative proteomic approach	bortezomib	"RPMI 8226,RPMI 8226 - R"	Label Free	Multiple myeloma
+PXD015751	Cellular interactome dynamics during paclitaxel treatment	paclitaxel	HeLa	SILAC	Cervix carcinoma
+PXD016475	Integrating phenotypic search and phosphoproteomic profiling of active kinases for optimization of drug mixtures for renal cell carcinoma treatment	"Das,Erl,Axi,combi Das-Erl-Axi"	786-O	label-free	Renal cell carcinoma
+PXD016604	Optimized high-order drug mixtures improve colorectal carcinoma treatment via inactivationof MAP kinase signaling pathway and cell cycle alteration	PR-619	U2OS	Label free	Colon cancer
+PXD019999	p53 C-terminal acetylation modulates apoptotic program	"Irinotecan,MS-275(Entinostat)"	Isogenic p53-positive and -negative CRC cells	Parallel Reaction Monitoring (PRM)	Colon cancer
+PXD020108	Global proteome and phosphoproteome alterations in 3rd generation EGFR TKI resistance reveal drug targets to circumvent resistance	"Osimertinib,Rociletinib"	"H1975,AZR3/AZR4,COR1/COR10"	SILAC	Lung cancer
+PXD020590	LSD1 inhibition induces differentiation and cell death in Merkel cell carcinoma	"ORY-1001,GSK-LSD1"	Merkel cell carcinoma (MCC) cell line	TMT	Skin cancer
+PXD021265	Proteomic profiling reveals CDK6 upregulation as a targetable resistance mechanism for lenalidomide in multiple myeloma	lenalidomide	Multiple myeloma patient source	TMT	Multiple myeloma
+PXD022164	Indisulam targets RNA splicing and metabolism to serve as a novel therapeutic strategy for high-risk neuroblastoma	Indisulam	Neuroblastoma cell line	TIC	Colon cancer
+PXD022982	Inhibition of the Histone Deacetylase activity impacts on Glioblastoma secretome and disrupts the molecular signature of the Tumor Extracellular Matrix	Trichostatin A	U87MG GBM	unknown	Glioblastoma
+PXD024910	Quantitative proteomics analysis reveals novel insights into mechanisms of action of Disulfiram (DSF)	Disulfiram	HeLa	SILAC	Cervix carcinoma
+PXD024965	Low-Dose CDK4/6 Inhibitors Induce Presentation of Pathway Specific MHC ligands as Potential Targets for Cancer Immunotherapy	"Abemaciclib,Palbociclib"	"MCF7,T47D"	Unknown	Breast cancer
+PXD025481	Single cell chemical proteomics (SCCP) interrogates the timing and heterogeneity of cancer cell commitment to death	"Methotrexate (MTX),Camptothecin (CPT),Tomudex (TDX)"	A549	TMT	Lung adenocarcinoma
+PXD028125	A specific inhibitor of ALDH1A3 regulates retinoic acid biosynthesis in glioma stem cells	MCI-INI-3	GSCs	TIC	Brain cancer
+PXD029296	Exploring the mechanism of action of Canmei formula against colorectal adenoma through multi-omics technique	"Canmei formula,sulfasalazine"	mouse	TMT	Stage iv colorectal cancer
+PXD029586	Analysis of protein secretome of human hepatocellular carcinoma (HCC) Cancer Associated Fibroblasts (CAFs) after long term (14 days) treatment with Transforming Growth Factor beta 1 (TGF beta 1)	TGF beta 1	CAFs	Unknown	Hepatocellular carcinoma
+PXD031295	Repurposing Live Attenuated Trivalent MMR Vaccine as Cost-effective Cancer ImmunotherapyRepurposing Live Attenuated Trivalent MMR Vaccine as Cost-effective Cancer Immunotherapy	MMR vaccine	"Hepa 1-6,Hep3B"	label-free	Hepatocellular carcinoma
+PXD031359	Differential network analysis of ROS1 inhibitors reveals lorlatinib polypharmacology: Phosphoproteomics	"lorlatinib,cabozantinib,crizotinib,entrectinib,Defactinib,GSK2256098,PND - 1186,Saracatinib,Bosutinib"	"HCC78,CUTO2,CUTO28,CUTO23,CUTO27,CUTO33"	TMT	Lung cancer
+PXD031690	Differential network analysis of ROS1 inhibitors reveals lorlatinib polypharmacology: Chemical Proteomics	"lorlatinib,cabozantinib,crizotinib,entrectinib,Defactinib,GSK2256098,PND - 1186,Saracatinib,Bosutinib"	"HCC78,CUTO2,CUTO28,CUTO23,CUTO27,CUTO33"	TIC	Lung cancer
+PXD033956	Phosphoproteomics of BYL719 (alpelisib)-Resistant T47D Human Breast Cancer Cell Line	Alpelisib (BYL719)	T47D	label-free	Breast cancer
+PXD036341	Trib3 modulates PPAR?-mediated growth inhibition by interfering with the MLL complex in breast cancer cells	Trib3?Kinase	MCF7 	SILAC	Breast cancer
+PXD036716	Differential Chemoproteomics Reveals MARK2/3 as Cell Migration-Relevant Targets of the ALK Inhibitor Brigatinib	brigatinib	CUTO9	TIC	Lung cancer
+PXD036771	Mig6 mediates adaptive and acquired resistance to ALK and ROS1 fusion kinase inhibition through feedback activation of EGFR: Cuto28	"ALK/ROS1 抑制剂,Afatinib,Crizotinib，Entrectinib"	ROS1	TMT	Lung cancer
+PXD040496	Deubiquitinase USP9X loss sensitizes renal cancer cells to mTOR inhibition	"rapamycin,bortezomib"	"?HeLa,786-O"	TMT	renal cell carcinoma
+PXD042004	TRIM21 enhances bortezomib sensitivity in multiple myeloma by halting pro-survival autophagy	bortezomib	"RPMI8226-Luc,U266"	Unknown	multiple myeloma
+PXD042498	Total Proteome: Ergolide Mediates Anti-Cancer Effects on Metastatic Uveal Melanoma Cells and Modulates their Cell Lysate and Extracellular Vesicle proteomes.	Ergolide	OMM2.5	Label free	Uveal melanoma
+PXD043220	Proteomic and phosphoproteomic reprogramming in epithelial ovarian cancer metastasis	Y-27632	"OVCAR8,HeyA8"	TMT	Malignant neoplasm of ovary
+PXD043514	Candidate biomarkers for treatment benefit from sunitinib in patients with advanced renal cell carcinoma using mass spectrometry-based (phospho)proteomics	sunitinib	HCT116	Label free	Kidney
+PXD044543无文献有结果	A small molecule targeting NMHC IIA phosphorylation exerts promising anti-tumor effects on colorectal cancer	LS-1-2	"HCT116,HCT8"	TMT/iTRAQ	Colorectal cancer (CRC)
+PXD045779	Mapping the substrate landscape of protein phosphatase 2A catalytic subunit PPP2CA	dTAG-13	"HEK293,HEK293-FT"	TMT	Epithelial cell
+PXD046446	Proteomic and phosphoproteomic analysis of ESR1 mutant cells	"EtOH,E2"	MCF7	TMT	breast cancer
+PXD046734	Phosphoprotein dynamics of interacting tumor and T cells by HySic	NVS-PAK1-1	"A549,EBC-1,G358,LCLC"	"SILAC,label-free"	Non-small cell lung carcinoma
+PXD046822	"1,4-dihydroxy Quininib Activates Ferroptosis Pathways in Metastatic Uveal Melanoma and Reveals a Novel Prognostic Biomarker Signature"	"1,4-dihydroxy Quininib"	OMM2.5	Label free	Uveal melanoma
+PXD046871	Temporal Quantitative Phosphoproteomic Profiling of SH-SY5Y and IMR-32 Neuroblastoma Cells During All-trans Retinoic Acid-Induced Neuronal Differentiation	ATRA	"SH-SY5Y,IMR-32"	TMT	Neuroblastoma
+PXD046900	Temporal Quantitative Proteomic Profiling of SH-SY5Y and IMR-32 Neuroblastoma Cells During All-trans Retinoic Acid-Induced Neuronal Differentiation	ATRA	"SH-SY5Y,IMR-32"	TMT	Neuroblastoma
+PXD047837	ATM Inhibition Exploits Checkpoint Defects and ATM-Dependent Double Strand Break Repair in TP53-Mutant Glioblastoma	"temozolomide,AZD1390"	TP53-mutant GBM	TMT	Glioblastoma
+PXD048277	Rebound after MAPK inhibitor withdrawal in pLGG cells	"Dabrafenib,Trametinib,Vincristine,Carboplatin,Alpelisip,Ipatasertib"	"BT-40,HMC3,DKFZ-BT66,DKFZ-BT308,DKFZ-BT314"	unknown	Brain cancer
+PXD048529	The ERK-dependent phosphoproteome in KRAS mutant pancreatic cancer	SCH772984	"MIA PaCa-2,PANC-1,HPAC,Panc 10.05,ASPC-1 and SW1990"	TMT	Pancreatic ductal carcinoma
+PXD048531	The ERK-dependent proteome in KRAS mutant pancreatic cancer	SCH772984	"MIA PaCa-2,PANC-1,HPAC,Panc 10.05,ASPC-1 and SW1990"	Label free	Pancreatic ductal adenocarcinoma
+PXD048532	The ERK-dependent phosphoproteome is enrciched in KRAS G12C dependent phosphoproteome	"MRTX1257,SCH772984"	"H358,SW837, MIA PaCa-2"	TMT	"Pancreatic ductal adenocarcinoma
+Non-small cell lung carcinoma
+Colorectal cancer"
+PXD048695	L-Glyceraldehyde inhibits neuroblastoma cell 1 growth via a multi-modal mechanism on metabolism 2 and signaling	Glyceraldehyde (GA)	"IMR-32,SH-SY5Y,VH7"	Label free	neuroblastoma
+PXD049123	Phosphoproteomics of Hela cells stimulated with EGF in the presence of protein phosphatase inhibitors	"Raphin1 acetate, sanguinarine chloride, KY-226, SHP099, NSC95397,BCI"	Hela	Label free	ov 
+PXD050260	The effect of an MLK3-targeting PROTAC on protein levels in model breast cancer cell lines.	CEP1347-VHL-02 PROTAC	"MCF-7,MDA-MB-468,HCC1806"	TMT	Breast cancer
+PXD050987	FAS Inhibited Proteomics and Phosphoproteomics Profiling of Colorectal Cancer Spheroids shows Activation of Ferroptotic Death Mechanism	"Cerulenin,TVB-2640"	"HT-29,HCT 116"	Normalized Spectral Abundance Factor - NSAF	Colon cancer
+PXD051094	SKBR3/HER2+ Breast Cancer Cellular Response to Lapatinib and Ipatasertib Kinase Inhibitors	"Ipatasertib,Lapatinib"	SKBR3	Spectrum counting	Breast cancer
+PXD051199	Development of novel chemical inhibitors of SETD8	C23 and C110 compound(SETD8 inhibitor)	U2OS	TMT	Osteosarcoma
+PXD052203	A549 cell treated with DDP+TSA vs DDP	"TSA,DDP"	A549	TMT	Colon cancer
+PXD052259	Phosphoproteomics of BRAFi-treated endothelial cells	"Vemurafenib, Dabrafenib, Encorafenib, PLX8394"	donor	TMT	Melanoma
+PXD052657	A highly potent bi-thiazole inhibitor of LOX rewires collagen architecture and enhances chemoresponse in triple-negative breast cancer	"Doxo,LXG6403"	"MDA - MB - 231,HCC1937,Hs - 578 - T,HCC1143"	matrix-assisted laser desorption-ionisation imaging mass spectrometry	Breast cancer
+PXD053902	Integrated proteomic and global phosphoproteomic analysis of cisplatin-induced apoptosis in A549 cells	cisplatin	A549	Label free	Lung cancer
+PXD054180	Lapatinib-Induced Enhancement Of Mitochondrial Respiration In HER2-Positive SK-BR-3 Cells: Mechanism Revealed By Analysis Of Proteomic But Not Transcriptomic Data	Lapatinib	SK-BR-3	Label free	Breast cancer
+PXD055164	Phosphoproteomics guides low dose drug combination of cisplatin and silmitasertib against concurrent chemoradiation resistant cervical cancer	"cisplatin,silmitasertib"	CaSki	TMT	Cervix carcinoma
+PXD056197	"IMPRINTS-CETSA Alpelisib and Buparlisib in MCF-7 cells, 6h incubation"	"Alpelisib,Buparlisib"	MCF-7	TMT	Unknown
